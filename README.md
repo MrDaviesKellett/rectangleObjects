@@ -17,7 +17,7 @@ Create a class called `Rectangle` that represents a rectangle with a given width
 ### Function `find_largest_rectangle(rectangles)`
 
 #### Parameters:
-- rectangles (list of Rectangle objects): A list of Rectangle objects.
+- rectangles: A list of Rectangle objects.
 
 #### Returns:
 - The Rectangle object with the largest area.

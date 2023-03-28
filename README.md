@@ -1,7 +1,7 @@
 # rectangleObjects
 
 ## Challenge Description: 
-Create a class called "Rectangle" that represents a rectangle with a given width and height. The class should have methods to calculate the area and perimeter of the rectangle. Additionally, create a function called "find_largest_rectangle" that takes in a list of Rectangle objects and returns the Rectangle with the largest area.
+Create a class called `Rectangle` that represents a rectangle with a given width and height. The class should have methods to calculate the area and perimeter of the rectangle. Additionally, create a function called `find_largest_rectangle` that takes in a list of Rectangle objects and returns the Rectangle with the largest area.
 
 ### Class: 
 Rectangle

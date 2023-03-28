@@ -3,8 +3,7 @@
 ## Challenge Description: 
 Create a class called `Rectangle` that represents a rectangle with a given width and height. The class should have methods to calculate the area and perimeter of the rectangle. Additionally, create a function called `find_largest_rectangle` that takes in a list of Rectangle objects and returns the Rectangle with the largest area.
 
-### Class: 
-Rectangle
+### Class Rectangle
 
 #### Attributes:
 - width (float)
@@ -15,8 +14,7 @@ Rectangle
 - area(self): Calculates and returns the area of the rectangle.
 - perimeter(self): Calculates and returns the perimeter of the rectangle.
 
-### Function: 
-find_largest_rectangle(rectangles)
+### Function find_largest_rectangle(rectangles)
 
 #### Parameters:
 - rectangles (list of Rectangle objects): A list of Rectangle objects.

@@ -10,11 +10,11 @@ Create a class called `Rectangle` that represents a rectangle with a given width
 - height (float)
 
 #### Methods:
-- __init__(self, width, height): Initializes a new Rectangle object with the given width and height.
-- area(self): Calculates and returns the area of the rectangle.
-- perimeter(self): Calculates and returns the perimeter of the rectangle.
+- `__init__(self, width, height)`: Initializes a new Rectangle object with the given width and height.
+- `area(self)`: Calculates and returns the area of the rectangle.
+- `perimeter(self)`: Calculates and returns the perimeter of the rectangle.
 
-### Function find_largest_rectangle(rectangles)
+### Function `find_largest_rectangle(rectangles)`
 
 #### Parameters:
 - rectangles (list of Rectangle objects): A list of Rectangle objects.

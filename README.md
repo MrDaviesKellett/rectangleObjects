@@ -41,7 +41,7 @@ assert rect.perimeter() == 18
 # Test 4: Finding the largest rectangle in a list
 rect1 = Rectangle(4, 5)
 rect2 = Rectangle(3, 6)
-rect3 = Rectangle(2, 8)
+rect3 = Rectangle(4, 8)
 rectangles = [rect1, rect2, rect3]
 assert find_largest_rectangle(rectangles) == rect3
 ```
